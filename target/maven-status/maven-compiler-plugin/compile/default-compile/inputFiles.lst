@@ -1,6 +1,10 @@
 C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\config\TestConfig.java
+C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\entities\Order.java
 C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\entities\User.java
+C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\repositories\OrderRepository.java
 C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\repositories\UserRepository.java
+C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\resources\OrderResources.java
 C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\resources\UserResources.java
+C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\services\OrderService.java
 C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\services\UserService.java
 C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\WebservicesApplication.java

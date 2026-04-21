@@ -1,10 +1,13 @@
 C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\config\TestConfig.java
 C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\entities\Category.java
 C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\entities\Order.java
+C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\entities\OrderItem.java
+C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\entities\pk\OrderItemPK.java
 C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\entities\Product.java
 C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\entities\User.java
 C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\enums\OrderStatus.java
 C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\repositories\CategoryRepository.java
+C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\repositories\OrderItemRepository.java
 C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\repositories\OrderRepository.java
 C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\repositories\ProductRepository.java
 C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\repositories\UserRepository.java

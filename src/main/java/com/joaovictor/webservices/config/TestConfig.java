@@ -13,6 +13,7 @@ import com.joaovictor.webservices.repositories.OrderItemRepository;
 import com.joaovictor.webservices.entities.User;
 import com.joaovictor.webservices.entities.Order;
 import com.joaovictor.webservices.entities.OrderItem;
+import com.joaovictor.webservices.entities.Payment;
 import com.joaovictor.webservices.entities.Product;
 import com.joaovictor.webservices.entities.Category;
 import com.joaovictor.webservices.enums.OrderStatus;
@@ -78,5 +79,10 @@ public class TestConfig implements CommandLineRunner{
         OrderItem oi4 = new OrderItem(o3, p5, 2, p5.getPrice()); 
 
         orderItemRepository.saveAll(java.util.Arrays.asList(oi1, oi2, oi3, oi4));
+
+        Payment pay1 = new Payment(null, Instant.parse("2019-07-21T21:53:07Z"), o2);
+        o2.setPayment(pay1);
+
+        orderRepository.save(o2);
     }
 }

@@ -13,10 +13,13 @@ C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\w
 C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\repositories\ProductRepository.java
 C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\repositories\UserRepository.java
 C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\resources\CategoryResources.java
+C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\resources\exceptions\ResourceExceptionHandler.java
+C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\resources\exceptions\StandardError.java
 C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\resources\OrderResources.java
 C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\resources\ProductResources.java
 C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\resources\UserResources.java
 C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\services\CategoryService.java
+C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\services\exceptions\ResourceNotFoundException.java
 C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\services\OrderService.java
 C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\services\ProductService.java
 C:\Users\joaoa\Documents\Estudos\Java\webservices\src\main\java\com\joaovictor\webservices\services\UserService.java
